@@ -1,11 +1,11 @@
 # ${\color{red} \textbf{HR}}$
 
-hello sir good morning/afternoon i am Prathmesh Karale, i am currently residing in Pune and i have 3+ years of experience in EBOT TECHNOSOFT as a DevOps Engineer. where i have gained extensive experience with DevOps methodology, AWS cloud and Linux system administration. 
+hello sir good morning/afternoon, First Of All Thank You to giving me this opportunity. my self Prathmesh Karale, & i am currently residing in Pune and i have 3+ years of experience in EBOT TECHNOSOFT as a DevOps Engineer. where i have gained extensive experience with DevOps methodology, AWS cloud and Linux system administration. 
 
-in that company my role particularly involved in operational part of DevOps and bridging the gap between developer and operational 
+in this company my role particularly involved in operational part of DevOps and bridging the gap between developer and operational 
 teams for faster software delivery. 
 
-in DevOps i have hands on experience with various tools like git and GitHub for version control system in that i have managed project locally with git functions like branching strategy, staging areas, code merging and rebasing and git integrate with CICD pipeline for code integration and deployment and used webhook for automated the process of software delivery. 
+in DevOps i have hands on experience with various tools like git and GitHub for version control system in that, i have managed project locally with git functions like branching strategy, staging areas, code merging and rebasing and git integrate with CICD pipeline for code integration and deployment and used webhook for automated the process of software delivery. 
 
 also worked with terraform for building the infrastructure on cloud mainly on AWS, in that i used variable and modules for reuse the code and provisioners for execute the script and command and also used s3 backend for secure the state file. 
 
@@ -17,7 +17,7 @@ my main role comes in Kubernetes in that i had managed EKS cluster with their no
 
 Worked with CICD tool like Jenkins where i have wrote a pipeline with multiple stages and managed project lifecycle with multiple tools like maven for build the code, SonarQube for the testing and trivy for the scanning docker images and also in Jenkins i have managed plugins, managed credentials. 
 
-additionally i used Prometheus and Grafana for monitoring the application on real time.
+additionally i used Prometheus and Grafana & Datadog for monitoring the application on real time.
 
 as for AWS i have i have experience with multiple services like I am for managing the user, group and roles and policies attach to them. computing services like ec2, networking services like VPC and Route-53 then also storage services like EBS, S3 and EFS, then also RDS, CloudWatch, CloudTrail, CloudFront and SNS for notification.
 
