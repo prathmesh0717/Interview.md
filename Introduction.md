@@ -1,17 +1,17 @@
 # ${\color{red} \textbf{HR}}$
 
-hello sir good morning/afternoon i am Gurudev Devkar, i am currently residing in Pune and i have 2.5+ years of experience in INAT technology as a DevOps Engineer. where i have gained extensive experience with DevOps methodology, AWS cloud and Linux system administration. 
+hello sir good morning/afternoon i am Prathmesh Karale, i am currently residing in Pune and i have 3+ years of experience in EBOT TECHNOSOFT as a DevOps Engineer. where i have gained extensive experience with DevOps methodology, AWS cloud and Linux system administration. 
 
 in that company my role particularly involved in operational part of DevOps and bridging the gap between developer and operational 
 teams for faster software delivery. 
 
 in DevOps i have hands on experience with various tools like git and GitHub for version control system in that i have managed project locally with git functions like branching strategy, staging areas, code merging and rebasing and git integrate with CICD pipeline for code integration and deployment and used webhook for automated the process of software delivery. 
 
-i worked with terraform for building the infrastructure on cloud mainly on AWS, in that i used variable and modules for reuse the code and provisioners for execute the script and command and also used s3 backend for secure the state file. 
+also worked with terraform for building the infrastructure on cloud mainly on AWS, in that i used variable and modules for reuse the code and provisioners for execute the script and command and also used s3 backend for secure the state file. 
 
 used ansible for configuration management and automation in that managed ansible-playbook file for run the task across multiple nodes and inventory file for manage and organise set of group of hosts. 
 
-i worked with containerization tool like Docker to run containerized application and made a Docker files to create custom images and pushed it on docker registry, Then created a container and managed multiple container with docker compose then also use docker volume, docker networking.
+ & hands on worked with containerization tool like Docker to run containerized application and made a Docker files to create custom images and pushed it on docker registry, Then created a container and managed multiple container with docker compose then also use docker volume, docker networking.
 
 my main role comes in Kubernetes in that i had managed EKS cluster with their nodes and deploy the pod with the help of their objects like replica set for manage the pod replicas, deployment for rollout and rollback of version, config map and secret for manage the sensitive data, and also worked with services like ingress , load balancer and persistent volume and also worked with another objects like stateful set, daemon set, namespace for isolated environment. 
 
@@ -33,9 +33,9 @@ its all about me.
 
 # ${\color{red} \textbf{INTRO}}$
 
-hello sir good afternoon, my name is Gurudev Devkar. im currently residing in pune. i graduated from SRTM university with a degree in bachelor of commerce. since July 2022 i have been working in XYZ company, wherw i have gained extensive experience in devops methodologies, AWS and Linux system administration. 
+hello sir good afternoon, my name is Prathmesh Karale im currently residing in pune. i graduated from SPPuuniversity with a degree in bachelor Business Adminitration. since April 2023 i have been working in EBOT TECHNOSOFT company, wherw i have gained extensive experience in devops methodologies, AWS and Linux system administration. 
 
-In XYZ company my role particularly involed with working with operational part of devops. i specialize in bridging the gap between development and operational teams for faster software devlivery. 
+In EBOT TECHNOSOFT company my role particularly involed with working with operational part of devops. i specialize in bridging the gap between development and operational teams for faster software devlivery. 
 
 in the Devops i have hands on experience with various tools like git and GitHub for version control system where i have managed project locally with git functions like branching strategy, staging areas, code merging and rebasing also integrate git with CI/CD pipeline to code integration and deployment then i also used webhooks for automated the process of software delivery.
 
