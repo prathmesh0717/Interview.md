@@ -2,8 +2,7 @@
 
 hello sir good morning/afternoon, my name is Prathmesh Karale, & i am residing in Pune and i have 3+ years of experience in EBOT TECHNOSOFT Companyas a DevOps Engineer. where i have gained extensive experience with DevOps methodology, AWS cloud and Linux system administration. 
 
-in this company my role particularly involved in operational part of DevOps and bridging the gap between developer and operational 
-teams for faster software delivery. 
+In This company my role particularly involed with working with operational part of devops. i specialize in bridging the gap between development and operational teams for faster software devlivery. 
 
 in DevOps i have hands on experience with various tools like git and GitHub for version control system in that, i have managed project locally with git functions like branching strategy, staging areas, code merging and rebasing and git integrate with CICD pipeline for code integration and deployment and used webhook for automated the process of software delivery. 
 
@@ -35,7 +34,7 @@ its all about me.
 
 hello sir good afternoon, my name is Prathmesh Karale im currently residing in pune. i graduated from SPPuuniversity with a degree in bachelor Business Adminitration. since April 2023 i have been working in EBOT TECHNOSOFT company, wherw i have gained extensive experience in devops methodologies, AWS and Linux system administration. 
 
-In EBOT TECHNOSOFT company my role particularly involed with working with operational part of devops. i specialize in bridging the gap between development and operational teams for faster software devlivery. 
+In This company my role particularly involed with working with operational part of devops. i specialize in bridging the gap between development and operational teams for faster software devlivery. 
 
 in the Devops i have hands on experience with various tools like git and GitHub for version control system where i have managed project locally with git functions like branching strategy, staging areas, code merging and rebasing also integrate git with CI/CD pipeline to code integration and deployment then i also used webhooks for automated the process of software delivery.
 
