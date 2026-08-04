@@ -1,6 +1,6 @@
 # ${\color{red} \textbf{HR}}$
 
-hello sir good morning/afternoon, First Of All Thank You to giving me this opportunity. my self Prathmesh Karale, & i am currently residing in Pune and i have 3+ years of experience in EBOT TECHNOSOFT as a DevOps Engineer. where i have gained extensive experience with DevOps methodology, AWS cloud and Linux system administration. 
+hello sir good morning/afternoon, my name is Prathmesh Karale, & i am residing in Pune and i have 3+ years of experience in EBOT TECHNOSOFT Companyas a DevOps Engineer. where i have gained extensive experience with DevOps methodology, AWS cloud and Linux system administration. 
 
 in this company my role particularly involved in operational part of DevOps and bridging the gap between developer and operational 
 teams for faster software delivery. 
